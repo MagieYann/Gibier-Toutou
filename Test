@@ -1,0 +1,37 @@
+{
+  "field": [
+    {
+      "title": "patate",
+      "description": "sont cuite",
+      "inline": true
+    },
+    {
+      "title": "tomates",
+      "description": "sont rouge",
+      "inline": true
+    },
+    {
+      "title": "jsp",
+      "description": "sont bleu",
+      "inline": true
+    },
+    {
+      "title": "poivrons",
+      "description": "sont pas bon",
+      "inline": true
+    },
+    {
+      "title": "carotes",
+      "description": "sont orange",
+      "inline": true
+    }
+  ],
+  "title": "titre de l'embed",
+  "link": "https://jsoneditoronline.org/",
+  "thumbnail": "https://i.imgur.com/itn4Due.jpg",
+  "footer": "ici, y a le footer",
+  "color": "#FF0000",
+  "image": "https://blog.devidia.net/wp-content/uploads/2017/11/safe_image.gif",
+  "icon": "https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/2134011/1160/772/m1/fpnw/wm0/lightbulb-flat-icon-01-.jpg?1484566261&s=889140e5e50fcc3c959de2d4a7edab23",
+  "desc": "petite description"
+}
